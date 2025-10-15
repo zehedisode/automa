@@ -1,6 +1,6 @@
 <img src="src/assets/images/icon-128.png" width="64"/>
 
-# Automa
+# Automa - Zehedisode Fork
 <p>
   <img alt="Automa latest version" src="https://img.shields.io/github/package-json/v/AutomaApp/automa" />
   <a href="https://twitter.com/AutomaApp">
@@ -10,6 +10,8 @@
     <img alt="Chat with us on Discord" src="https://img.shields.io/discord/942211415517835354?label=join%20discord&logo=Discord&logoColor=white" />
   </a>
 </p>
+
+**Bu Automa projesinin geliştirilmiş bir fork'udur.**
 
 An extension for automating your browser by connecting blocks. <br />
 Auto-fill forms, do a repetitive task, take a screenshot, or scrape website data — the choice is yours. You can even schedule when the automation will execute!
